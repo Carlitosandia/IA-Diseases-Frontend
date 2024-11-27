@@ -1,0 +1,62 @@
+[
+    {
+        "disease": "Neumonía",
+        "origin": "Infección bacteriana, viral o micótica que inflama los sacos de aire de los pulmones.",
+        "treatment": "Antibióticos para infecciones bacterianas, antivirales o antifúngicos según la causa; reposo, líquidos y medicamentos para la fiebre.",
+        "image": "/images/neumonia.jpg"
+    },
+    {
+        "disease": "Bronquitis aguda",
+        "origin": "Inflamación de los bronquios generalmente causada por infecciones virales o exposición a irritantes como humo.",
+        "treatment": "Reposo, hidratación, broncodilatadores, medicamentos para aliviar la tos, y en casos bacterianos, antibióticos.",
+        "image": "/images/bronquitis.jpg"
+    },
+    {
+        "disease": "COVID-19",
+        "origin": "Infección causada por el coronavirus SARS-CoV-2, que afecta principalmente el sistema respiratorio.",
+        "treatment": "Reposo, líquidos, medicamentos para controlar los síntomas; en casos graves, oxígeno, antivirales y cuidados intensivos.",
+        "image": "/images/covid19.png"
+    },
+    {
+        "disease": "Asma",
+        "origin": "Trastorno crónico de las vías respiratorias desencadenado por factores genéticos y ambientales.",
+        "treatment": "Inhaladores broncodilatadores, corticosteroides, y control de factores desencadenantes.",
+        "image": "/images/asma.webp"
+    },
+    {
+        "disease": "Tuberculosis",
+        "origin": "Infección bacteriana causada por Mycobacterium tuberculosis.",
+        "treatment": "Antibióticos específicos como rifampicina e isoniazida durante varios meses.",
+        "image": "/images/tuberculosis.webp"
+    },
+    {
+        "disease": "Enfisema pulmonar",
+        "origin": "Daño a los alvéolos pulmonares, asociado principalmente al tabaquismo o exposición a contaminantes.",
+        "treatment": "Broncodilatadores, terapia de oxígeno, rehabilitación pulmonar y en casos avanzados, cirugía.",
+        "image": "/images/enfisema.jpg"
+    },
+    {
+        "disease": "Sinusitis",
+        "origin": "Inflamación de los senos paranasales causada por infecciones virales, bacterianas o alérgicas.",
+        "treatment": "Descongestionantes, analgésicos, antibióticos en casos bacterianos, y corticosteroides nasales.",
+        "image": "/images/sinusitis.webp"
+    },
+    {
+        "disease": "Gripe (Influenza)",
+        "origin": "Infección viral causada por los virus de la influenza.",
+        "treatment": "Reposo, líquidos, medicamentos antivirales y sintomáticos como analgésicos y antipiréticos.",
+        "image": "/images/influenza.jpg"
+    },
+    {
+        "disease": "Legionelosis",
+        "origin": "Infección bacteriana causada por Legionella pneumophila, generalmente transmitida a través de sistemas de agua contaminados.",
+        "treatment": "Antibióticos como macrólidos o fluoroquinolonas.",
+        "image": "/images/legionelosis.webp"
+    },
+    {
+        "disease": "Fibrosis quistica",
+        "origin": "Trastorno genético que causa acumulación de moco espeso en los pulmones y otros órganos.",
+        "treatment": "Terapia de eliminación de moco, antibióticos para infecciones pulmonares, enzimas pancreáticas y medicamentos específicos.",
+        "image": "/images/fibrosis.jpg"
+    }
+]

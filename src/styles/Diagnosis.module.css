@@ -1,0 +1,58 @@
+/* Contenedor general */
+.diagnosiscontainer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Tablas */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: left;
+}
+
+/* Encabezados de tabla */
+.table th {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+/* Filas de la tabla */
+.table td {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+/* Hover sobre filas */
+.table tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Botones */
+button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Títulos */
+h1, h2 {
+    color: #333;
+    font-family: Arial, sans-serif;
+}

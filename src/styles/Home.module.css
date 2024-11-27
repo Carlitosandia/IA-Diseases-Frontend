@@ -1,0 +1,26 @@
+.symptomscontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center; /* Centra los elementos verticalmente */
+    margin: 1rem 0;
+}
+
+.symptomscontainer label {
+    flex: 2; /* Ajusta el espacio relativo del texto */
+    text-align: left; /* Alinea el texto a la izquierda */
+}
+
+.symptomscontainer input[type="range"] {
+    flex: 2; /* Ajusta el espacio relativo del slider */
+    margin: 0 1rem; /* Espaciado horizontal */
+}
+
+.symptomscontainer span {
+    flex: 1; /* Ajusta el espacio relativo del número */
+    text-align: center; /* Centra el texto del número */
+}
+
+.bold {
+    font-weight: bold;
+}
